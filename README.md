@@ -1,4 +1,4 @@
-# Berlin Auslaenderbehorde Termin Bot
+# Stuttgart Auslaenderbehorde Termin Bot
 
 This application uses Selenium library to automatically detect when an appointment is available at
 Ausländerbehörde Berlin for the selected visa service. Whenever an available day is found, it beeps.
